@@ -6,7 +6,7 @@ int total = 0;
 
 void setup()
 {
-	size(1400,668);
+	size(1375,668);
 	noLoop();
 }
 
